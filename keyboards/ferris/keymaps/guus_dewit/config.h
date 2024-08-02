@@ -40,6 +40,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // Enable double shift caps word
 #define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
 
+// Combo count
+#define COMBO_COUNT 1
+
 // Underglow configuration
 #ifdef RGBLIGHT_ENABLE
 #    define RGBLIGHT_EFFECT_BREATHING
