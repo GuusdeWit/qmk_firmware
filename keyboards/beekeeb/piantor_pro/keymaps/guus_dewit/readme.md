@@ -10,6 +10,6 @@
 ## Building and flashing
 - Run `make beekeeb/piantor_pro:guus_dewit` from home qmk folder
 - Attach (left) keyboard and start boot loader
-    - Use both layer buttons + Q
+    - Use outer thumb button + Q (top left or top right button)
     - Unscrew back of case, and double tap reset button
 - Copy over the generated uf2 file
